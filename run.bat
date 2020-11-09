@@ -1,0 +1,1 @@
+java -jar target\kmeans-image-sample-1.0-SNAPSHOT-jar-with-dependencies.jar "D:\Data Mining\ELKI\image.bmp" 2

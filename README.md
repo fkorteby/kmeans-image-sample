@@ -3,9 +3,11 @@
 
 The repository contains a small java application demonstrate how we can use k-means algorithm to compress raw images.
 
+[Download](target/kmeans-image-sample-1.0-SNAPSHOT-jar-with-dependencies.jar)
+
 ## Usage
 
-You can run the in the target folder :
+You can run download the jar-with-dependencies file in the target folder then run the following command :
 
 `java -jar target\kmeans-image-sample-1.0-SNAPSHOT-jar-with-dependencies.jar <bmp-image-file> <k-means-parameter>`
 
